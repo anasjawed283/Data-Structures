@@ -36,12 +36,8 @@ Welcome to the Data Structures Playground – a dynamic repository offering a we
 
 Contributions and discussions are the heartbeat of this repository. Feel free to contribute your implementations, suggest improvements, or actively participate in discussions to enrich the collective knowledge.
 
-## License:
 
-This repository is open-source and available under the [MIT License](LICENSE). Use, modify, and contribute to the content for educational or personal purposes.
 
 Embark on a journey of data exploration and algorithmic mastery with the Data Structures Playground. Happy coding and learning!
 
 --- 
-
-Feel free to customize the description based on the specific details and features of your data structures repository.
